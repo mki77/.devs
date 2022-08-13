@@ -1,0 +1,1 @@
+@reg.exe export HKCU\Software\Microsoft\Windows\CurrentVersion\CloudStore\Store\Cache\DefaultAccount restore-start-tiles.reg /y

@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\Shell\Bags\AllFolders\Shell]
+"Logo"="c:\\.jpg"
+;Uncomment to restore
+;"Logo"=-

@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics]
+"BorderWidth"="-15"
+"CaptionHeight"="-300"
+"CaptionWidth"="-330"
+"IconSpacing"="-960"
+"IconVerticalSpacing"="-1080"
+"PaddedBorderWidth"="0"
+"ScrollHeight"="-225"
+"ScrollWidth"="-225"
+"SmCaptionHeight"="-300"
+"SmCaptionWidth"="-330"
